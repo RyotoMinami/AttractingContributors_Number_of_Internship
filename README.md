@@ -33,3 +33,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 8. num:8,Interesting:Rakuten<br>
 9. num:4, Interesting:SONY<br>
 10.  num:8, Interesting:Avgel<br>
+11. num:2, Interesting:Rare<br>
